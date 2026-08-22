@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/static-spa-banner.png" width="880" alt="STATIC-SPA — Obsidian Forged Systems" />
+  <img src="./static-spa.png" width="880" alt="STATIC-SPA — Obsidian Forged Systems" />
 </div>
 
 <br/>
